@@ -1,0 +1,28 @@
+.list  {
+display: flex;
+justify-items: row;
+align-content: space-between;
+margin: 40px;
+
+}
+
+.card {
+display:flex;
+border-color : black;
+width: 30%;
+height: 300px;
+margin: 20px;
+border-radius: 20px;
+
+justify-items: row;
+align-content: space-between;
+border-color: chocolate;
+background-color: darkolivegreen ;
+
+}
+
+
+.card_title{
+    margin:15px;
+    
+}
